@@ -1,6 +1,8 @@
 # Task_1
 Task_1 of the Kaiburr Assessment
 
+## All the project related files are in springboot-mongodb folder.All other files are just screenshots
+
 ## A Simple Backend Application is Designed with help of SpringBoot and MongoDB.
 
 ![Main Application Running](https://user-images.githubusercontent.com/122474267/227773753-a1908b1c-4df4-4160-a4a6-e8868cd2e08b.png)
