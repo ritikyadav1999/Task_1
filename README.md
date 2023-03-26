@@ -1,6 +1,7 @@
 # Task_1
 Task_1 of the Kaiburr Assessment
 
+## Please install all the required mvn packages
 ## All the project related files are in springboot-mongodb folder.All other files are just screenshots
 
 ## A Simple Backend Application is Designed with help of SpringBoot and MongoDB.
@@ -9,7 +10,7 @@ Task_1 of the Kaiburr Assessment
 
 
 ## Requirement:
-#### 1.Java JDK 
+#### 1.Java JDK 8
 #### 2.IDE for Running SpringBoot Application eg. IntelliJ
 #### 3.MongoDB Compass
 #### 4.Postman
